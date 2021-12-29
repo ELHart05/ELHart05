@@ -23,8 +23,8 @@
 <br />
 
 
-
-
+---
+![Counter](https://komarev.com/ghpvc/?username=ELHart05&style=plastic&color=brightgreen)
 
 
 [twitter]: https://twitter.com/okbaalla
