@@ -17,6 +17,8 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
+[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />][javascript]
+[<img align="left" alt="Sass" width="26px" src="https://th.bing.com/th/id/R.6597cc35589236a430e20f4d2adf09a6?rik=1gQ5rMvntrIpIQ&riu=http%3a%2f%2fmaddesigns.de%2frwd-sass-compass%2fimg%2fsass-logo-new.png&ehk=6Ifu2pnyjlY8s4ajUlsHaaRPMyukr4Y1q8DrLdwfHqE%3d&risl=&pid=ImgRaw&r=0" />][sass]
 [<img align="left" alt="Pascal" width="26px" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.4.0/1639177287636/Microsoft.VisualStudio.Services.Icons.Default" />][pascal]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
@@ -35,3 +37,5 @@
 [CSS]: #
 [terminal]: #
 [pascal]: #
+[sass]: #
+[javascript]: #
