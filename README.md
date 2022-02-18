@@ -6,7 +6,7 @@
 - 👨‍🏫 I’m currently learning Sass's Style Sheete Language And Developing My Skills on Java Script.   
 - 👨‍💻 I’m looking to Learn PHP and MYSQL Basics In The Near Future. 
 - 📫 How to reach me : You Got My IN-STUDY Email : o.allaoua@esi-sba.dz and My Personal One : allaouaokba@gmail.com.
-
+---
 ### Other ways to reach me:
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -21,13 +21,17 @@
 [<img align="left" alt="Sass" width="26px" src="https://th.bing.com/th/id/R.6597cc35589236a430e20f4d2adf09a6?rik=1gQ5rMvntrIpIQ&riu=http%3a%2f%2fmaddesigns.de%2frwd-sass-compass%2fimg%2fsass-logo-new.png&ehk=6Ifu2pnyjlY8s4ajUlsHaaRPMyukr4Y1q8DrLdwfHqE%3d&risl=&pid=ImgRaw&r=0" />][sass]
 [<img align="left" alt="Pascal" width="26px" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.4.0/1639177287636/Microsoft.VisualStudio.Services.Icons.Default" />][pascal]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+<br />
+---
+### Stats And Most Used Languages : 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ELHart05&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E&layout=compact&theme=tokyonight)]()
 <br />
-<br />
+---
+### Visiting Counter :
 
 ![](https://komarev.com/ghpvc/?username=ELHart05&color=8000ff)
-
-
 
 
 [twitter]: https://twitter.com/okbaalla
