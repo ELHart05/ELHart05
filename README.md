@@ -26,7 +26,7 @@
 ### Stats And Most Used Languages : 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ELHart05&count_private=true&theme=tokyonight&showicons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E&layout=compact&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELHart05&layout=compact&theme=tokyonight)]()
 <br />
 ---
 ### Visiting Counter :
