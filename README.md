@@ -3,9 +3,9 @@
 ### Hi there, Okba is hier !
 - 🙋‍♂️ I’m ALLAOUA Okba AKA "ELHart", Currently a Student On The Higher School of Computer Science 08 May 1945 - Sidi Bel Abbes.
 - 🕵️‍♂ I’m interested in Web And Android Development, Ethical Hacking and Design !
-- 👨‍🏫 I’m currently learning Web Development Basics (HTML/CSS) and some IT Fendamentals.   
-- 👨‍💻 I’m looking to Learn Java Script Basics In The Near Future.  
-- 📫 How to reach me : You Got My IN-STUDY Email : o.allaoua@esi-sba.dz.
+- 👨‍🏫 I’m currently learning Sass's Style Sheete Language And Developing My Skills on Java Script.   
+- 👨‍💻 I’m looking to Learn PHP and MYSQL Basics In The Near Future. 
+- 📫 How to reach me : You Got My IN-STUDY Email : o.allaoua@esi-sba.dz and My Personal One : allaouaokba@gmail.com
 
 ### Other ways to reach me:
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
