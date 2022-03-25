@@ -1,5 +1,7 @@
 <h1 align="center">WELCOME 👋</h1>
 
+<img align="center" alt="Intro" src="https://indylogix.com/wp-content/uploads/2020/10/hire-front-end-developer-indylogix-solutions.png"/>
+
 ### Hi there, Okba is here !
 - 🙋‍♂️ I’m ALLAOUA Okba AKA "ELHart", Currently a Student On The Higher School of Computer Science 08 May 1945 - Sidi Bel Abbes.
 - 🕵️‍♂ I’m interested in Web And Android Development, Ethical Hacking and Design !
@@ -17,7 +19,7 @@
 [<img align="left" alt="HTML" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>][HTML]
 [<img align="left" alt="CSS" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>][CSS]
 [<img align="left" alt="JavaScript" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>][javascript] 
-[<img align="left" alt="pascal" width="55px" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.4.0/1639177287636/Microsoft.VisualStudio.Services.Icons.Default"/>][pascal]
+[<img align="left" alt="Pascal" width="55px" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.4.0/1639177287636/Microsoft.VisualStudio.Services.Icons.Default"/>][pascal]
 <br />
 <br />
 ---
@@ -42,4 +44,4 @@
 [HTML]: https://www.w3schools.com/html/
 [CSS]: https://www.w3schools.com/css
 [javascript]: https://www.w3schools.com/js
-[pascal]: #
+[pascal]: https://www.freepascal.org/
