@@ -22,10 +22,13 @@
 ---
 
 ### Stats And Most Used Languages : 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ELHart05&count_private=true&theme=tokyonight&showicons=true)]() [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ELHart05&theme=dark)](https://git.io/streak-stats)
-<br />
-[<p align="center"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELHart05&layout=compact&theme=tokyonight"/></p>][TopLangs]
+<img src="https://github-readme-stats.vercel.app/api/?username=ELHart05&count_private=true&theme=tokyonight&showicons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ELHart05&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELHart05&layout=compact&theme=tokyonight"/>
+
 ---
+
+
 ### Visiting Counter :
 ![](https://komarev.com/ghpvc/?username=ELHart05&color=8000ff)
 
