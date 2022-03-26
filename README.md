@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME 👋</h1>
 
-<img align="center" alt="Intro" src="https://indylogix.com/wp-content/uploads/2020/10/hire-front-end-developer-indylogix-solutions.png"/>
+<p align="center"><img width="50%" alt="Intro" src="https://indylogix.com/wp-content/uploads/2020/10/hire-front-end-developer-indylogix-solutions.png"/></p>
 
 ### Hi there, Okba is here !
 - 🙋‍♂️ I’m ALLAOUA Okba AKA "ELHart", Currently a Student On The Higher School of Computer Science 08 May 1945 - Sidi Bel Abbes.
