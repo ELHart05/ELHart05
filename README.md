@@ -12,7 +12,8 @@
 [<img width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img width="140px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 ### Languages and Tools:
-[<img title="Python" alt="Python" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>][python] &nbsp;
+[<img title="Python" alt="Python" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>][Python]
+[<img title="Java" alt="Java" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>][Java]
 [<img title="HTML 5" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>][HTML] &nbsp;
 [<img title="CSS 3" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>][CSS] &nbsp;
 [<img title="JavaScript" alt="JavaScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>][javascript] &nbsp;
@@ -22,6 +23,7 @@
 [<img title="Tailwindcss 3" alt="Tailwindcss" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>][tailwindcss] &nbsp;
 [<img title="VueJS" alt="VueJS" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>][VueJS] &nbsp;
 [<img title="ReactJS" alt="ReactJS" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>][ReactJS] &nbsp;
+[<img title="NextJS" alt="NextJS" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>][NextJS] &nbsp;
 [<img title="Vuex" alt="Vuex" width="43px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png"/>][vuex] &nbsp;
 [<img title="Pinia" alt="Pinia" width="32px" src="https://pinia.vuejs.org/logo.svg"/>][pinia] &nbsp;
 [<img title="Firebase 9" alt="firebase" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>][firebase] &nbsp;
@@ -65,9 +67,11 @@
 [tailwindcss]: https://tailwindcss.com/
 [VueJS]: https://vuejs.org/
 [ReactJS]: https://reactjs.org/
+[NextJS]: https://nextjs.org/blog/next-13
 [Vuex]: https://vuex.vuejs.org/
 [pinia]: https://pinia.vuejs.org/
 [Python]: https://www.python.org/
+[Java]: https://www.java.com/fr/
 [Vuetify]: https://vuetifyjs.com/
 [firebase]: https://firebase.google.com/
 [nodejs]: https://nodejs.org/en/
