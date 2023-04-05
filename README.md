@@ -25,7 +25,7 @@
 [<img title="ReactJS" alt="ReactJS" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>][ReactJS] &nbsp;
 [<img title="NextJS" alt="NextJS" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>][NextJS] &nbsp;
 [<img title="Vuex" alt="Vuex" width="43px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png"/>][vuex] &nbsp;
-[<img title="Pinia" alt="Pinia" width="32px" src="https://pinia.vuejs.org/logo.svg"/>][pinia] &nbsp;
+[<img title="ReduxJS" alt="ReduxJS" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>][ReduxJS] &nbsp;
 [<img title="Firebase 9" alt="firebase" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>][firebase] &nbsp;
 [<img title="NodeJS" alt="nodejs" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>][nodejs] &nbsp;
 [<img title="ExpressJS" alt="expressjs" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>][expressjs] &nbsp;
@@ -55,7 +55,7 @@
 [twitter]: https://twitter.com/okbaalla
 [facebook]: https://www.facebook.com/okba.hart
 [instagram]: https://instagram.com/this.okba
-[linkedin]: https://twitter.com/allaokba
+[linkedin]: https://www.linkedin.com/in/okbaallaoua/
 [HTML]: https://www.w3schools.com/html/
 [CSS]: https://www.w3schools.com/css
 [javascript]: https://www.w3schools.com/js
@@ -69,7 +69,7 @@
 [ReactJS]: https://reactjs.org/
 [NextJS]: https://nextjs.org/blog/next-13
 [Vuex]: https://vuex.vuejs.org/
-[pinia]: https://pinia.vuejs.org/
+[ReduxJS]: https://redux-toolkit.js.org/
 [Python]: https://www.python.org/
 [Java]: https://www.java.com/fr/
 [Vuetify]: https://vuetifyjs.com/
