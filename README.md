@@ -6,7 +6,7 @@
 
 ## Hello there, This is Okba!
 
-- 🏫 I’m currently a compuer systems engineering student at [the Higher School of Computer Science Algiers ESI ex. INI](https://www.esi.dz/).
+- 🏫 I’m currently a computer systems engineering student at [the Higher School of Computer Science Algiers ESI ex. INI](https://www.esi.dz/).
 
 - 🙋‍♂️ I'm interested in Software engineering and Cyber security!
 
@@ -24,6 +24,7 @@
 [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />][gmail]
 [<img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />][stackoverflow]
 [<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />][telegram]
+[<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />][whatsapp]
 
 <br clear="both">
 
@@ -59,7 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -104,6 +105,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
 
 <br clear="both">
@@ -126,7 +129,7 @@
 ## Github Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mitchi-02&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ELHart05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
   <br clear="both">
   <br clear="both">
   <img src="https://github-readme-stats.vercel.app/api?username=ELHart05&hide_title=false&hide_rank=false&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
@@ -147,4 +150,6 @@
 [stackoverflow]: https://stackoverflow.com/users/19395484/allaoua-okba/
 [gmail]: mailto:allaouaokba@gmail.com
 [telegram]: https://t.me/OkbaAllaoua
+[whatsapp]: https://wa.me/213777363236
+
 
