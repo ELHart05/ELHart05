@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="42" alt="Vuex logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="40" alt="nuxtjs logo"  />
+  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="40" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
