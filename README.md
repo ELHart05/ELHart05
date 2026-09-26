@@ -6,25 +6,22 @@
 
 ## Hello there, This is Okba!
 
-- 🏫 I’m currently a computer systems engineering student at [the Higher School of Computer Science Algiers ESI ex. INI](https://www.esi.dz/).
+- 🏫 I’m an Infrastructure and Computer Systems Engineering graduate from [the Higher School of Computer Science Algiers ESI ex. INI](https://www.esi.dz/) and a final year Software Engineering Student at [the University of Montpellier](https://www.umontpellier.fr/en/).
 
-- 🙋‍♂️ I'm interested in Software engineering and Cyber security!
+- 🙋‍♂️ I thrive at the intersection of Software Engineering, CyberSecurity, DevSecOps, Cloud Computing, and Networking.
 
-- 💁‍♂️ I’m looking to collaborate on open source software projects.
+- 💁‍♂️ I’ve contribued to many open source projects and looking forward more collaborations.
 
-- 📫 Reach me via [allaouaokba@gmail.com](mailto:allaouaokba@gmail.com).
+- 📫 Reach me via [contact@okbaallaoua.com](mailto:contact@okbaallaoua.com).
 
 <br clear="both">
 
 ## Other ways to reach me:
-[<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />][facebook]
-[<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />][instagram]
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />][linkedin]
 [<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />][discord]
 [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />][gmail]
 [<img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />][stackoverflow]
 [<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />][telegram]
-[<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />][whatsapp]
 
 <br clear="both">
 
@@ -92,6 +89,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="golang logo"  />
+  <img width="12" />
+  <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/10.0.0/1767572212218/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="pascal logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
@@ -107,12 +108,32 @@
   <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/6844498?s=280&v=4" height="40" alt="azure logo"  />
 </div>
 
 <br clear="both">
 
 ## Other Technologies I Use
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
@@ -120,6 +141,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="35" alt="rust logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" alt="ruby logo"  />
+  <img width="20" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="35" alt="react native logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
@@ -132,11 +161,6 @@
   <img src="https://streak-stats.demolab.com?user=ELHart05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
   <br clear="both">
   <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELHart05&hide_title=false&hide_rank=false&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
-  <img width="50" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ELHart05&locale=en&hide_title=false&hide_border=true&layout=compact&card_width=320&langs_count=5&theme=radical" height="160" alt="languages graph"  />
-  <br clear="both">
-  <br clear="both">
   <img alt="followers" src="https://img.shields.io/github/followers/ELHart05?label=Followers&style=social">
   <img width="20" />
   <img src="https://komarev.com/ghpvc/?username=ELHart05&color=blue" alt="watching_count" />
@@ -144,12 +168,9 @@
 
 
 [discord]: https://discordapp.com/users/513884013921042433
-[facebook]: https://www.facebook.com/okba.hart
-[instagram]: https://instagram.com/this.okba
 [linkedin]: https://www.linkedin.com/in/okbaallaoua/
 [stackoverflow]: https://stackoverflow.com/users/19395484/allaoua-okba/
-[gmail]: mailto:allaouaokba@gmail.com
+[gmail]: mailto:contact@okbaallaoua.com
 [telegram]: https://t.me/OkbaAllaoua
-[whatsapp]: https://wa.me/213777363236
 
 
